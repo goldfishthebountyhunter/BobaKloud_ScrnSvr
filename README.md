@@ -1,7 +1,8 @@
 # BobaKloud_ScrnSvr
+# Last Updated: 4/5/2025
 
-# UPDATE 2025
-### goldfishthebountyhunter is working on future patches and updates coming soon! 
+
+### Updates Coming Soon! 
 ~~~
 * more Mystical Ceatures
 * Faster Exec (Port to C, Zig, Go?)
@@ -67,19 +68,20 @@ Command exited with non-zero status 127
  [[Github Mirror](https://github.com/goldfishthebountyhunter/BobaKloud_ScrnSvr/archive/refs/heads/main.zip)]
  [[Google Drive Mirror](https://drive.google.com/file/d/1yYnE6XX5DF-64KI8eqLVlwZBwL2ojOPv/view?usp=sharing)]
 
-* Unzip BobaKloud_ScrnSvr-main
-* cd BobaKloud_ScrnSvr-main
-* make sure to ```$ chmod +x BobaKloud_ScrnSvr_Runtime.sh```
-* Launch with ```$ ./BobaKloud_ScrnSvr_Runtime.sh```
+* Unzip bobakloud_scrnsvr_0001A.zip
+* Navigate to dir ```$ cd /bobakloud_scrnsvr_0001A/bobakloud_scrnsvr_0001A/```
+* make sure to ```$ chmod +x bobakloud_scrnsvr_c_builder.sh```
+* Launch with ```$ ./bobakloud_scrnsvr_c_builder.sh```
+* Launch with ```$ ./bobakloud_scrnsvr_c_launcher.sh```
 * Break/Interupt with ```Ctrl + C```
-
-* Spice it up? install lolcat &  ```$ ./BobaKloud_ScrnSvr_Runtime.sh | lolcat```
 
 ## Using Git
 * ```$ git clone https://github.com/goldfishthebountyhunter/BobaKloud_ScrnSvr.git```
-* cd BobaKloud_ScrnSvr-main
-* make sure to ```$ chmod +x BobaKloud_ScrnSvr_Runtime.sh```
-* Launch with ```$ ./BobaKloud_ScrnSvr_Runtime.sh```
+* Unzip bobakloud_scrnsvr_0001A.zip
+* Navigate to dir ```$ cd /bobakloud_scrnsvr_0001A/bobakloud_scrnsvr_0001A/```
+* make sure to ```$ chmod +x bobakloud_scrnsvr_c_builder.sh```
+* Launch with ```$ ./bobakloud_scrnsvr_c_builder.sh```
+* Launch with ```$ ./bobakloud_scrnsvr_c_launcher.sh```
 * Break/Interupt with ```Ctrl + C```
 
 
