@@ -13,7 +13,8 @@
 BobaKloud_ScrnSvr is a fun and magical screensaver app that displays AI-generated mystical creatures on your screen.
 Each time the screensaver activates, a new fantastical creature appears, crafted by advanced AI algorithms to bring a touch of magic to your desktop.
 Whether you're into dragons, unicorns, or creatures you've never seen before, this app adds a whimsical touch to your digital environment.
-![BobaKloud_ScrnSvr.gif](https://github.com/goldfishthebountyhunter/BobaKloud_ScrnSvr/blob/4c2f4512d71fbffcd5313b39743762ced7445f9b/BobaKloud_ScrnSvr.gif)
+<!--- ![BobaKloud_ScrnSvr.gif](https://github.com/goldfishthebountyhunter/BobaKloud_ScrnSvr/blob/4c2f4512d71fbffcd5313b39743762ced7445f9b/BobaKloud_ScrnSvr.gif) --->
+![BobaKloud_ScrnSvr.gif](https://github.com/goldfishthebountyhunter/BobaKloud_ScrnSvr/blob/78e84fe98dd5f5b0261d3dab153fd6ace8dab14f/bobakloud_scrnsvr_2.gif)
 
 ## High-Quality Imagery:
 Imagine the fusion of technology and creativity in its purest form: AI-generated ASCII art. This digital art style takes the humble text characters you see on your screen and transforms them into intricate, often mesmerizing images. Powered by advanced algorithms, AI can craft one-of-a-kind pieces that showcase how even simple symbols can become powerful works of art. What’s so cool about it? Every creation is unique and dynamically generated, making each experience different. It’s a perfect blend of nostalgia for the early days of computing with a modern twist, showing that even in a world of high-definition graphics, there’s still magic in the simplicity of text-based art.
